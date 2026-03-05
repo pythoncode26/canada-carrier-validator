@@ -1,5 +1,7 @@
 # Canada Number Validator
 
+# 加拿大电话号码验证器
+
 ![Canada Number Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-number-validator.png)
 ![Canada carrier Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-carrier-validator.png)
 
@@ -10,7 +12,8 @@
 - Check numbers by popular carriers.
 - Import any quantity of phone numbers for validation.
 - Can handle large volumes of requests smoothly.
-- Reliable service with minimal downtime.
+- Reliable service with no downtime.
+- Ultra fast checking process.
 
 ---
 
